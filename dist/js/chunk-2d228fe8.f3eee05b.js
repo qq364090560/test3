@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d228fe8"],{dc0c:function(n,c,e){"use strict";e.r(c);var t=function(){var n=this,c=n.$createElement,e=n._self._c||c;return e("div",[n._v("\n  收费\n")])},a=[],u={},r=u,s=e("cba8"),i=Object(s["a"])(r,t,a,!1,null,"5437facc",null);c["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-2d228fe8.f3eee05b.js.map
